@@ -130,3 +130,6 @@ dmypy.json
 
 # Mac life issues
 .DS_Store
+
+# Config files
+config.py
